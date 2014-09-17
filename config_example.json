@@ -5,7 +5,7 @@
     "cliPort": 17117,
 
     "clustering": {
-        "enabled": true,
+        "enabled": false,
         "forks": "auto"
     },
 
